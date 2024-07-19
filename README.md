@@ -38,7 +38,7 @@ systemctl enable docker
 ## Quick installation Jump Server 
 
 ~~~
-curl -sSL https://github.com/jumpserver/jumpserver/releases/latest/download/quick_start.sh | bash
+curl -sSL https://resource.fit2cloud.com/jumpserver/jumpserver/releases/latest/download/quick_start.sh | bash
 ~~~
 
 
